@@ -1,7 +1,11 @@
 <div align="center">
   
 ## About
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Hola! Soy un desarrollador Full Stack, especializado en desarrollar tanto aplicaciones web, como aplicaciones de escritorio para uso empresarial.
+  
+VISITA MI EMPRESA AQUÍ  
+
+<a href="https://www.instagram.com/microhubco/">![Instagram](https://img.shields.io/badge/microhubco-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 
 -------------------
 
