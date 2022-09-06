@@ -14,14 +14,5 @@ VISITA MI EMPRESA AQUÍ
 </a> ![Discord](https://img.shields.io/badge/Harkor421%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
-  
-![Harkor421 github stats](https://github-readme-stats.vercel.app/api?username=Harkor421&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Harkor421 github streak](https://github-readme-streak-stats.herokuapp.com/?user=Harkor421&theme=radical&include_all_commits=true&count_private=true)
-
- <div>
-
------
-
 
 Last Edited on: 1/10/2021
