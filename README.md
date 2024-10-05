@@ -17,11 +17,6 @@ Poseo un amplio conocimiento en arquitecturas de microservicios y soluciones esc
 ### 💻 Contribuciones y Actividad Reciente
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harkor421&theme=radical&date_format=j%20M%5B%20Y%5D)
 
----
-
-### 📊 Resumen de Productividad
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harkor421&theme=radical)
-
 -------------------
 
 ## Contacto
