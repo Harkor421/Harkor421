@@ -1,12 +1,6 @@
 <div align="center">
 
-# Hey, I'm Samir 👋
-
 **Full-Stack Developer** · Mobile & Web · Cloud Architecture
-
-Building scalable applications with modern technologies
-
-<br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/samirgonzalezk/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/samir_gzz)
@@ -67,5 +61,5 @@ I build full-stack applications with a focus on performance and scalability.
 ---
 
 <div align="center">
-<sub>Open to collaboration · Let's build something together</sub>
+<sub>Open to collaboration</sub>
 </div>
